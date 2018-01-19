@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'icomoon2';
   src:
-    url('fonts/icomoon2.ttf?2ouuxm') format('truetype'),
-    url('fonts/icomoon2.woff?2ouuxm') format('woff'),
-    url('fonts/icomoon2.svg?2ouuxm#icomoon2') format('svg');
+    url('fonts/icomoon2.ttf?lbbg9t') format('truetype'),
+    url('fonts/icomoon2.woff?lbbg9t') format('woff'),
+    url('fonts/icomoon2.svg?lbbg9t#icomoon2') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -23,57 +23,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-doc:before {
-  content: "\e005";
-}
-.icon-docs:before {
-  content: "\e006";
-}
-.icon-wallet:before {
-  content: "\e016";
-}
-.icon-lamp:before {
-  content: "\e030";
-}
-.icon-pencil:before {
-  content: "\e032";
-}
-.icon-pin:before {
-  content: "\e047";
-}
-.icon-clock:before {
-  content: "\e055";
-}
-.icon-gears:before {
-  content: "\e02b";
-}
-.icon-fb:before {
-  content: "\ea90";
-}
-.icon-inst:before {
-  content: "\ea92";
-}
-.icon-wapp:before {
-  content: "\ea93";
-}
-.icon-tw:before {
-  content: "\ea96";
-}
-.icon-rss:before {
-  content: "\ea9b";
-}
-.icon-yt:before {
-  content: "\ea9d";
-}
-.icon-be:before {
-  content: "\eaa8";
-}
-.icon-skype:before {
-  content: "\eac5";
-}
-.icon-in:before {
-  content: "\eaca";
-}
 .icon-arr_l:before {
   content: "\e900";
 }
@@ -115,4 +64,55 @@
 }
 .icon-star:before {
   content: "\e90d";
+}
+.icon-fb:before {
+  content: "\ea90";
+}
+.icon-inst:before {
+  content: "\ea92";
+}
+.icon-wapp:before {
+  content: "\ea93";
+}
+.icon-tw:before {
+  content: "\ea96";
+}
+.icon-rss:before {
+  content: "\ea9b";
+}
+.icon-yt:before {
+  content: "\ea9d";
+}
+.icon-be:before {
+  content: "\eaa8";
+}
+.icon-skype:before {
+  content: "\eac5";
+}
+.icon-in:before {
+  content: "\eaca";
+}
+.icon-doc:before {
+  content: "\e005";
+}
+.icon-docs:before {
+  content: "\e006";
+}
+.icon-wallet:before {
+  content: "\e016";
+}
+.icon-lamp:before {
+  content: "\e030";
+}
+.icon-pencil:before {
+  content: "\e032";
+}
+.icon-pin:before {
+  content: "\e047";
+}
+.icon-clock:before {
+  content: "\e055";
+}
+.icon-gears:before {
+  content: "\e02b";
 }
